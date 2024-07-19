@@ -1,0 +1,7 @@
+{
+    "turboConsoleLog.delimiterInsideMessage": "",
+    "turboConsoleLog.addSemicolonInTheEnd": true,
+    "turboConsoleLog.insertEmptyLineBeforeLogMessage": true,
+    "turboConsoleLog.insertEmptyLineAfterLogMessage": true,
+    "turboConsoleLog.logMessagePrefix": ""
+}
